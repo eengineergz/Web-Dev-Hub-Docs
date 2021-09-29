@@ -4,19 +4,15 @@ description: iframe embeds
 
 # Showcase
 
-[https://codesandbox.io/s/intelligent-shadow-fn9hs](https://codesandbox.io/s/intelligent-shadow-fn9hs)
+
+
+{% embed url="https://stackblitz.com/edit/design-home-page-with-routes-bq5v7k" %}
 
 
 
 
 
 {% embed url="https://codesandbox.io/s/intelligent-shadow-fn9hs" %}
-
-
-
-
-
-{% embed url="https://stackblitz.com/edit/design-home-page-with-routes-bq5v7k?file=app/app.component.ts" %}
 
 
 
