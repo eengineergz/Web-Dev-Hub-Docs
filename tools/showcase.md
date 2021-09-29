@@ -4,6 +4,28 @@ description: iframe embeds
 
 # Showcase
 
+[https://codesandbox.io/s/intelligent-shadow-fn9hs](https://codesandbox.io/s/intelligent-shadow-fn9hs)
+
+
+
+
+
+{% embed url="https://codesandbox.io/s/intelligent-shadow-fn9hs" %}
+
+
+
+
+
+{% embed url="https://stackblitz.com/edit/design-home-page-with-routes-bq5v7k?file=app/app.component.ts" %}
+
+
+
+
+
+
+
+
+
 {% embed url="https://codesandbox.io/s/project-card-forked-y5cfn" %}
 
 {% embed url="https://stackblitz.com/edit/react-redux-registration-login-example-rf6zh3?file=index.js" %}
@@ -45,6 +67,8 @@ description: iframe embeds
 {% embed url="https://codesandbox.io/embed/angry-allen-x8qp2?fontsize=14&hidenavigation=1&theme=dark" %}
 
 
+
+{% embed url="https://stackblitz.com/edit/graphql-7r93uw?file=index.js" %}
 
 
 
