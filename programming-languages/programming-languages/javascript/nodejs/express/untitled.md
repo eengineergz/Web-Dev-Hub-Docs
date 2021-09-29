@@ -1,10 +1,15 @@
-# Untitled
+---
+description: >-
+  Express.js is a Javascript framework based on Node.js, that supports
+  development both on the server side and the user side. Express is a very fast,
+  essential, assertive, and moderate web framework of
+---
+
+# ExpressJS Overview
 
 
 
-## What is ExpressJS/Overview
-
-Express.js is a Javascript framework based on Node.js, that supports development both on the server side and the user side. Express is a very fast, essential, assertive, and moderate web framework of Node.js. You can assume express as a tier built on the top of the Node.js that helps in managing server and routes. It provides a robust set of features to develop a web application and mobile applications. It is lightweight Framework of node.js. Express provides a minimal interface to build our applications. It provides the tools that are required to build our app. It is flexible as there are numerous modules available on node package manager \(npm\), which can be directly plugged into Express.
+##  ExpressJS Overview
 
 **Topics Covered**
 
