@@ -156,6 +156,7 @@
   * [Creating an API](web_dev_tools/postman/creating-an-api.md)
   * [Trouble Shooting Postman](web_dev_tools/postman/trouble-shooting-postman.md)
 * [Netlify](web_dev_tools/netlify/README.md)
+  * [Pandoc](web_dev_tools/netlify/pandoc.md)
   * [Graph API](web_dev_tools/netlify/graph-api.md)
   * [Troubleshooting](web_dev_tools/netlify/troubleshooting.md)
   * [Examples](web_dev_tools/netlify/examples.md)
