@@ -9,7 +9,7 @@ description: >-
 
 
 
-##  ExpressJS Overview
+## ExpressJS Overview
 
 **Topics Covered**
 
@@ -453,9 +453,13 @@ C:\node\example>expressCopy
 ```
 
 So now you can find all the necessary directories and files has been created in your folder.  
+
+
 ![](https://www.pabbly.com/wp-content/uploads/2018/02/scaffolding1-2.png)
 
 Every folder has different content inside.  
+
+
 ![Scaffolding](https://www.pabbly.com/wp-content/uploads/2018/02/scaffolding2-1.png)
 
 At first, you find a bin folder. There is only one file named ‘www’ inside this folder.  
