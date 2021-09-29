@@ -66,10 +66,12 @@
 
 ## Web Development Frameworks & Libraries <a id="web-development-frameworks"></a>
 
+* [GRAPHQL](web-development-frameworks/graphql.md)
 * [React](web-development-frameworks/react.md)
 * [Jquery](web-development-frameworks/jquery/README.md)
   * [Prac](web-development-frameworks/jquery/prac.md)
 * [GATSBY](web-development-frameworks/gatsby/README.md)
+  * [Untitled](web-development-frameworks/gatsby/untitled.md)
   * [Building with Components](web-development-frameworks/gatsby/building-with-components.md)
   * [Plugins, Themes, & Starters](web-development-frameworks/gatsby/plugins-themes-and-starters.md)
   * [GraphQL Concepts](web-development-frameworks/gatsby/graphql-concepts.md)
