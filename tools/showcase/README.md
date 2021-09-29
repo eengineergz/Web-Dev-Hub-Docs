@@ -4,21 +4,13 @@ description: iframe embeds
 
 # Showcase
 
+
+
 {% embed url="https://codesandbox.io/s/programming-quiz-forked-nkrgw" %}
-
-
 
 {% embed url="https://stackblitz.com/edit/design-home-page-with-routes-bq5v7k" %}
 
-
-
-
-
 {% embed url="https://codesandbox.io/s/intelligent-shadow-fn9hs" %}
-
-
-
-
 
 
 
@@ -28,67 +20,21 @@ description: iframe embeds
 
 {% embed url="https://stackblitz.com/edit/react-redux-registration-login-example-rf6zh3?file=index.js" %}
 
-
-
 {% embed url="https://stackblitz.com/edit/react-redux-registration-login-example-fptwjs?file=index.js" %}
-
-
 
 {% embed url="https://codesandbox.io/s/project-card-forked-y5cfn" %}
 
-
-
-
-
-
-
 {% embed url="https://codesandbox.io/s/goofy-swartz-484qu?file=/README.md:11-52" %}
-
-
-
-
-
-
-
-
 
 {% embed url="https://codesandbox.io/s/dark-mode-toggle-forked-6oqlt?file=/src/DarkModeToggle.js" %}
 
-
-
 {% embed url="https://codesandbox.io/s/mvp-visually-explained-forked-cz17f" %}
 
-
-
-
-
 {% embed url="https://codesandbox.io/embed/angry-allen-x8qp2?fontsize=14&hidenavigation=1&theme=dark" %}
-
-
-
-{% embed url="https://stackblitz.com/edit/graphql-7r93uw?file=index.js" %}
-
-
 
 {% embed url="https://codesandbox.io/embed/dndkit-sortable-image-grid-forked-6vfn5?fontsize=14&hidenavigation=1&theme=dark" %}
 
 {% embed url="https://codesandbox.io/s/maths-tester-forked-ws1y0" %}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 {% embed url="https://stackblitz.com/edit/graphql-awx5rw?file=index.js" %}
 
@@ -98,29 +44,13 @@ description: iframe embeds
 
 {% embed url="https://codesandbox.io/s/codebin-forked-ewc61" %}
 
-
-
 {% embed url="https://codesandbox.io/s/cra-ant-design-forked-wt94u" %}
-
-
 
 {% embed url="https://codesandbox.io/s/weather-app-forked-49ofw" %}
 
-
-
-
-
 {% embed url="https://codesandbox.io/embed/recursing-cdn-fimqt?fontsize=14&hidenavigation=1&theme=dark&view=preview" %}
 
-
-
 {% embed url="https://codesandbox.io/embed/idk-forked-dz6xk?fontsize=14&hidenavigation=1&theme=dark" %}
-
-
-
-
-
-[![Edit zealous-mirzakhani-p8j5h](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/zealous-mirzakhani-p8j5h?autoresize=1&codemirror=1&fontsize=12&hidenavigation=1&theme=light&view=preview)
 
 
 
