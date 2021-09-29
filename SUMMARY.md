@@ -9,8 +9,10 @@
   * [Docker](tools/tools/docker.md)
   * [G-Cloud & Firebase](tools/tools/g-cloud-and-firebase.md)
   * [Heroku](tools/tools/heroku.md)
-* [Showcase](tools/showcase.md)
+* [Showcase](tools/showcase/README.md)
+  * [Continued](tools/showcase/untitled.md)
 * [Downloads](tools/downloads.md)
+* [Links](tools/links.md)
 
 ## Programming Languages
 
