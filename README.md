@@ -377,3 +377,279 @@ description: initial page
 
 
 
+
+
+
+
+
+# Technologies behind the website:
+
+###### Analytics and Tracking
+
+[View Global Trends](https://trends.builtwith.com/analytics)
+
+[Amplitude](https://trends.builtwith.com/analytics/Amplitude)
+-------------------------------------------------------------
+
+[Amplitude Usage Statistics](https://trends.builtwith.com/analytics/Amplitude) - [Download List of All Websites using Amplitude](https://trends.builtwith.com/websitelist/Amplitude)
+
+Mobile analytics platform.
+
+[Mobile](https://trends.builtwith.com/analytics/mobile)
+
+###### Widgets
+
+[View Global Trends](https://trends.builtwith.com/widgets)
+
+[Iframely](https://trends.builtwith.com/widgets/Iframely)
+---------------------------------------------------------
+
+[Iframely Usage Statistics](https://trends.builtwith.com/widgets/Iframely) - [Download List of All Websites using Iframely](https://trends.builtwith.com/websitelist/Iframely)
+
+Iframely gives you simple APIs to have all the Web's best media on your site.
+
+[Google Font API](https://trends.builtwith.com/widgets/Google-Font-API)
+-----------------------------------------------------------------------
+
+[Google Font API Usage Statistics](https://trends.builtwith.com/widgets/Google-Font-API) - [Download List of All Websites using Google Font API](https://trends.builtwith.com/websitelist/Google-Font-API)
+
+The Google Font API helps you add web fonts to any web page.
+
+[Fonts](https://trends.builtwith.com/widgets/fonts)
+
+[Gist](https://trends.builtwith.com/widgets/Gist)
+-------------------------------------------------
+
+[Gist Usage Statistics](https://trends.builtwith.com/widgets/Gist) - [Download List of All Websites using Gist](https://trends.builtwith.com/websitelist/Gist)
+
+Gist is a widget provided by GitHub to display syntax highlighted source code in a variety of languages.
+
+###### Mobile
+
+[View Global Trends](https://trends.builtwith.com/mobile)
+
+[Viewport Meta](https://trends.builtwith.com/mobile/Viewport-Meta)
+------------------------------------------------------------------
+
+[Viewport Meta Usage Statistics](https://trends.builtwith.com/mobile/Viewport-Meta) - [Download List of All Websites using Viewport Meta](https://trends.builtwith.com/websitelist/Viewport-Meta)
+
+This page uses the viewport meta tag which means the content may be optimized for mobile content.
+
+[IPhone / Mobile Compatible](https://trends.builtwith.com/mobile/IPhone---Mobile-Compatible)
+--------------------------------------------------------------------------------------------
+
+[IPhone / Mobile Compatible Usage Statistics](https://trends.builtwith.com/mobile/IPhone---Mobile-Compatible) - [Download List of All Websites using IPhone / Mobile Compatible](https://trends.builtwith.com/websitelist/IPhone---Mobile-Compatible)
+
+The website contains code that allows the page to support IPhone / Mobile Content.
+
+[Mobile Non Scaleable Content](https://trends.builtwith.com/mobile/Mobile-Non-Scaleable-Content)
+------------------------------------------------------------------------------------------------
+
+[Mobile Non Scaleable Content Usage Statistics](https://trends.builtwith.com/mobile/Mobile-Non-Scaleable-Content) - [Download List of All Websites using Mobile Non Scaleable Content](https://trends.builtwith.com/websitelist/Mobile-Non-Scaleable-Content)
+
+This content is formatted for mobile devices, it does not allow the content to be scaled.
+
+###### Content Delivery Network
+
+[View Global Trends](https://trends.builtwith.com/cdn)
+
+[UNPKG](https://trends.builtwith.com/cdn/UNPKG)
+-----------------------------------------------
+
+[UNPKG Usage Statistics](https://trends.builtwith.com/cdn/UNPKG) - [Download List of All Websites using UNPKG](https://trends.builtwith.com/websitelist/UNPKG)
+
+unpkg is a fast, global content delivery network for everything on npm.
+
+[Cloudflare](https://trends.builtwith.com/cdn/Cloudflare)
+---------------------------------------------------------
+
+[Cloudflare Usage Statistics](https://trends.builtwith.com/cdn/Cloudflare) - [Download List of All Websites using Cloudflare](https://trends.builtwith.com/websitelist/Cloudflare)
+
+Automatically optimizes the delivery of your web pages so your visitors get the fastest page load times and best performance.
+
+###### Content Management System
+
+[View Global Trends](https://trends.builtwith.com/cms)
+
+[GitBook](https://trends.builtwith.com/cms/GitBook)
+---------------------------------------------------
+
+[GitBook Usage Statistics](https://trends.builtwith.com/cms/GitBook) - [Download List of All Websites using GitBook](https://trends.builtwith.com/websitelist/GitBook)
+
+Documentation system for team productivity.
+
+###### JavaScript Libraries and Functions
+
+[View Global Trends](https://trends.builtwith.com/javascript)
+
+[Polyfill IO](https://trends.builtwith.com/javascript/Polyfill-IO)
+------------------------------------------------------------------
+
+[Polyfill IO Usage Statistics](https://trends.builtwith.com/javascript/Polyfill-IO) - [Download List of All Websites using Polyfill IO](https://trends.builtwith.com/websitelist/Polyfill-IO)
+
+Hosted polyfill script.
+
+[JavaScript Library](https://trends.builtwith.com/javascript/javascript-library)
+
+###### Operating Systems and Servers
+
+[View Global Trends](https://trends.builtwith.com/server)
+
+[GitHub Hosting](https://trends.builtwith.com/Server/GitHub-Hosting)
+--------------------------------------------------------------------
+
+[GitHub Hosting Usage Statistics](https://trends.builtwith.com/Server/GitHub-Hosting) - [Download List of All Websites using GitHub Hosting](https://trends.builtwith.com/websitelist/GitHub-Hosting)
+
+This site is hosted on Github infrastructure.
+
+###### Document Encoding
+
+[View Global Trends](https://trends.builtwith.com/encoding)
+
+[UTF-8](https://trends.builtwith.com/encoding/UTF-8)
+----------------------------------------------------
+
+[UTF-8 Usage Statistics](https://trends.builtwith.com/encoding/UTF-8)
+
+UTF-8 (8-bit UCS/Unicode Transformation Format) is a variable-length character encoding for Unicode. It is the preferred encoding for web pages.
+
+###### Document Standards
+
+[View Global Trends](https://trends.builtwith.com/docinfo)
+
+[HTML5 DocType](https://trends.builtwith.com/docinfo/HTML5-DocType)
+-------------------------------------------------------------------
+
+[HTML5 DocType Usage Statistics](https://trends.builtwith.com/docinfo/HTML5-DocType)
+
+The DOCTYPE is a required preamble for HTML5 websites.
+
+[Open Graph Protocol](https://trends.builtwith.com/docinfo/Open-Graph-Protocol)
+-------------------------------------------------------------------------------
+
+[Open Graph Protocol Usage Statistics](https://trends.builtwith.com/docinfo/Open-Graph-Protocol)
+
+The Open Graph protocol enables any web page to become a rich object in a social graph, a open protocol supported by Facebook
+
+[Twitter Cards](https://trends.builtwith.com/docinfo/Twitter-Cards)
+-------------------------------------------------------------------
+
+[Twitter Cards Usage Statistics](https://trends.builtwith.com/docinfo/Twitter-Cards)
+
+Twitter cards make it possible for you to attach media experiences to Tweets that link to your content.
+
+[Cascading Style Sheets](https://trends.builtwith.com/docinfo/Cascading-Style-Sheets)
+-------------------------------------------------------------------------------------
+
+[Cascading Style Sheets Usage Statistics](https://trends.builtwith.com/docinfo/Cascading-Style-Sheets)
+
+Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in a markup language. Its most common application is to style web pages written in HTML
+
+[Canonical Content Tag](https://trends.builtwith.com/docinfo/Canonical-Content-Tag)
+-----------------------------------------------------------------------------------
+
+[Canonical Content Tag Usage Statistics](https://trends.builtwith.com/docinfo/Canonical-Content-Tag)
+
+Public specification of a preferred URL for a page allows search engines to understand the original location for content.
+
+[Font Face Rule](https://trends.builtwith.com/docinfo/Font-Face-Rule)
+---------------------------------------------------------------------
+
+[Font Face Rule Usage Statistics](https://trends.builtwith.com/docinfo/Font-Face-Rule)
+
+The @font-face rule allows for linking to fonts that are automatically activated when needed.
+
+[Javascript](https://trends.builtwith.com/docinfo/Javascript)
+-------------------------------------------------------------
+
+[Javascript Usage Statistics](https://trends.builtwith.com/docinfo/Javascript)
+
+JavaScript is a scripting language most often used for client-side web development.
+
+[WAI-ARIA](https://trends.builtwith.com/docinfo/WAI-ARIA)
+---------------------------------------------------------
+
+[WAI-ARIA Usage Statistics](https://trends.builtwith.com/docinfo/WAI-ARIA)
+
+A way to make Web content and Web applications more accessible to people with disabilities. It especially helps with dynamic content and advanced user interface controls developed with Ajax, HTML, JavaScript, and related technologies.
+
+[HTML 5 Specific Tags](https://trends.builtwith.com/docinfo/HTML-5-Specific-Tags)
+---------------------------------------------------------------------------------
+
+[HTML 5 Specific Tags Usage Statistics](https://trends.builtwith.com/docinfo/HTML-5-Specific-Tags)
+
+This page contains tags that are specific to an HTML 5 implementation.
+
+[IFrame](https://trends.builtwith.com/docinfo/IFrame)
+-----------------------------------------------------
+
+[IFrame Usage Statistics](https://trends.builtwith.com/docinfo/IFrame)
+
+The page shows content with an iframe; an embedded frame that loads another webpage.
+
+[Strict Transport Security](https://trends.builtwith.com/docinfo/Strict-Transport-Security)
+-------------------------------------------------------------------------------------------
+
+[Strict Transport Security Usage Statistics](https://trends.builtwith.com/docinfo/Strict-Transport-Security)
+
+The HTTP Strict-Transport-Security (HSTS) header instructs the browser to only use https.
+
+[HSTS](https://trends.builtwith.com/docinfo/HSTS)
+-------------------------------------------------
+
+[HSTS Usage Statistics](https://trends.builtwith.com/docinfo/HSTS)
+
+Forces browsers to only communicate with the site using HTTPS.
+
+[Content Security Policy](https://trends.builtwith.com/docinfo/Content-Security-Policy)
+---------------------------------------------------------------------------------------
+
+[Content Security Policy Usage Statistics](https://trends.builtwith.com/docinfo/Content-Security-Policy)
+
+Content Security Policy is a computer security concept, to prevent cross-site scripting XSS attacks.
+
+[Report URI CSP](https://trends.builtwith.com/docinfo/Report-URI-CSP)
+---------------------------------------------------------------------
+
+[Report URI CSP Usage Statistics](https://trends.builtwith.com/docinfo/Report-URI-CSP)
+
+Report-uri directive instructs the user agent to report attempts to violate the Content Security Policy.
+
+[Referrer Policy](https://trends.builtwith.com/docinfo/Referrer-Policy)
+-----------------------------------------------------------------------
+
+[Referrer Policy Usage Statistics](https://trends.builtwith.com/docinfo/Referrer-Policy)
+
+Requests made from a document, and for navigations away from that document are associated with a Referrer header. This policy determines in the browser should send a referrer or not.
+
+[Content Type Options](https://trends.builtwith.com/docinfo/Content-Type-Options)
+---------------------------------------------------------------------------------
+
+[Content Type Options Usage Statistics](https://trends.builtwith.com/docinfo/Content-Type-Options)
+
+Used to disable MIME-sniffing for a particular HTTP response.
+
+[DNS Prefetch](https://trends.builtwith.com/docinfo/DNS-Prefetch)
+-----------------------------------------------------------------
+
+[DNS Prefetch Usage Statistics](https://trends.builtwith.com/docinfo/DNS-Prefetch)
+
+Page contains links to disable or enable DNS prefetching of links in the page.
+
+[X-XSS-Protection](https://trends.builtwith.com/docinfo/X-XSS-Protection)
+-------------------------------------------------------------------------
+
+[X-XSS-Protection Usage Statistics](https://trends.builtwith.com/docinfo/X-XSS-Protection)
+
+X-XSS-Protection is a HTTP header set by Internet Explorer 8+. This header lets domains toggle on and off the "XSS Filter" of IE8, which prevents some categories of XSS attacks.
+
+###### Content Delivery Network
+
+[View Global Trends](https://trends.builtwith.com/cdn)
+
+[Content Delivery Network](https://trends.builtwith.com/CDN/Content-Delivery-Network)
+-------------------------------------------------------------------------------------
+
+[Content Delivery Network Usage Statistics](https://trends.builtwith.com/CDN/Content-Delivery-Network) - [Download List of All Websites using Content Delivery Network](https://trends.builtwith.com/websitelist/Content-Delivery-Network)
+
+This page contains links that give the impression that some of the site contents are stored on a content delivery network.
