@@ -192,3 +192,7 @@
 
 * [Principles behind the Agile Manifesto](general-comp-sci/principles-behind-the-agile-manifesto.md)
 
+## Blockchain & Crypto
+
+* [Blockchain Basics](blockchain-and-crypto/blockchain-basics.md)
+
