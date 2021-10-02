@@ -52,6 +52,8 @@
 
 
 
+
+
  
 
 
@@ -78,7 +80,9 @@
 
  
 
-[https://replit.com/@bgoonz/Reactjs-2](https://replit.com/@bgoonz/Reactjs-2)
+{% embed url="https://replit.com/@bgoonz/Reactjs-2" %}
+
+
 
  
 
@@ -98,23 +102,41 @@
 
 
 
-[https://replit.com/@bgoonz/jquery-shopping-list-walkthrough-13-test1](https://replit.com/@bgoonz/jquery-shopping-list-walkthrough-13-test1)
+{% embed url="https://replit.com/@bgoonz/jquery-shopping-list-walkthrough-13-test1" %}
 
-[https://replit.com/@bgoonz/get-fetch-dog-spicific-breed](https://replit.com/@bgoonz/get-fetch-dog-spicific-breed)
 
-[https://replit.com/@bgoonz/jQuery](https://replit.com/@bgoonz/jQuery)
+
+{% embed url="https://replit.com/@bgoonz/get-fetch-dog-spicific-breed" %}
+
+
+
+{% embed url="https://replit.com/@bgoonz/jQuery" %}
+
+
 
 [https://replit.com/@bgoonz/data-structures](https://replit.com/@bgoonz/data-structures)
 
-[https://replit.com/@bgoonz/algo-problems](https://replit.com/@bgoonz/algo-problems)
 
-[https://replit.com/@bgoonz/pure-ds](https://replit.com/@bgoonz/pure-ds)
+
+{% embed url="https://replit.com/@bgoonz/algo-problems" %}
+
+
+
+{% embed url="https://replit.com/@bgoonz/pure-ds" %}
+
+
 
 [https://replit.com/@bgoonz/snippets](https://replit.com/@bgoonz/snippets)
 
+
+
 [https://replit.com/@bgoonz/prac4242](https://replit.com/@bgoonz/prac4242)
 
-[https://replit.com/@bgoonz/graphs](https://replit.com/@bgoonz/graphs)
+
+
+{% embed url="https://replit.com/@bgoonz/graphs" %}
+
+
 
 [https://replit.com/@bgoonz/BST](https://replit.com/@bgoonz/BST)
 
@@ -132,13 +154,17 @@
 
 [https://replit.com/@bgoonz/DATASTRUCTURES-NOTES](https://replit.com/@bgoonz/DATASTRUCTURES-NOTES)
 
-[https://replit.com/@bgoonz/30-days-python](https://replit.com/@bgoonz/30-days-python)
+{% embed url="https://replit.com/@bgoonz/30-days-python" %}
+
+
 
 {% embed url="https://replit.com/@bgoonz/22-Maths-With-Variables-Example-Solution" %}
 
 
 
-[https://replit.com/@bgoonz/Replit-Database-proxy-1](https://replit.com/@bgoonz/Replit-Database-proxy-1)
+{% embed url="https://replit.com/@bgoonz/Replit-Database-proxy-1" %}
+
+
 
 {% embed url="https://replit.com/@bgoonz/python-ds-2" %}
 
@@ -170,7 +196,9 @@
 
 
 
-[https://replit.com/@bgoonz/ds-algos-tight-5](https://replit.com/@bgoonz/ds-algos-tight-5)
+{% embed url="https://replit.com/@bgoonz/ds-algos-tight-5" %}
+
+
 
 {% embed url="https://replit.com/@bgoonz/main-prac-1" %}
 
@@ -178,7 +206,9 @@
 
 
 
-[https://replit.com/@bgoonz/main-prac](https://replit.com/@bgoonz/main-prac)
+{% embed url="https://replit.com/@bgoonz/main-prac" %}
+
+
 
 {% embed url="https://replit.com/@bgoonz/cs-unit-1-sprint-2-module-3-stack-implementation-linked-li-2" %}
 
