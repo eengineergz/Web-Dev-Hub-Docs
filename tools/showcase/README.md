@@ -4,7 +4,13 @@ description: iframe embeds
 
 # Showcase
 
-{% embed url="https://codesandbox.io/s/dynamicimport-forked-whbde" %}
+{% embed url="https://codepen.io/bgoonz/pen/qBjwygy" %}
+
+
+
+{% embed url="https://codesandbox.io/s/staticimport-forked-zk6ef" %}
+
+
 
 
 
