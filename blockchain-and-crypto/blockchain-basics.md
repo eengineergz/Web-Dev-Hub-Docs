@@ -1,6 +1,15 @@
+---
+description: >-
+  As new data comes in it is entered into a fresh block. Once the block is
+  filled with data it is chained onto the previous block, which makes the data
+  chained together in chronological order.
+---
+
 # Blockchain Basics
 
 {% embed url="https://codepen.io/bgoonz/pen/NWgmzRM" %}
+
+{% embed url="https://bryan-guner.gitbook.io/solidarity-blockchain-nfts/" %}
 
 
 
