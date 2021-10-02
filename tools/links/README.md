@@ -1,25 +1,5 @@
 # REPL.IT Compilations
 
-{% embed url="https://replit.com/repls/multiplayer" %}
-
-
-
-{% embed url="https://replit.com/repls/folder/Unnamed" %}
-
-
-
-{% embed url="https://replit.com/repls/folder/DS\_ALGOS" %}
-
-
-
-{% embed url="https://replit.com/repls/folder/python" %}
-
-
-
-
-
-
-
 
 
 {% embed url="https://replit.com/@bgoonz/js-tutorial-1" %}
@@ -48,7 +28,13 @@
 
 
 
-[https://replit.com/@bgoonz/chess](https://replit.com/@bgoonz/chess) [https://replit.com/@bgoonz/Quiz](https://replit.com/@bgoonz/Quiz)
+{% embed url="https://replit.com/@bgoonz/chess" %}
+
+
+
+{% embed url="https://replit.com/@bgoonz/Quiz" %}
+
+
 
 
 
