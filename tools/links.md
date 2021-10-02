@@ -38,7 +38,9 @@
 
  
 
-[https://replit.com/@bgoonz/CODESIGNAL](https://replit.com/@bgoonz/CODESIGNAL)
+{% embed url="https://replit.com/@bgoonz/CODESIGNAL" %}
+
+
 
 {% embed url="https://replit.com/@bgoonz/week-10-take-7" %}
 
@@ -64,15 +66,21 @@
 
  
 
+ 
+
+{% embed url="https://replit.com/@bgoonz/Calculator" %}
 
 
-[https://replit.com/@bgoonz/Login-Page-22-1](https://replit.com/@bgoonz/Login-Page-22-1) [https://replit.com/@bgoonz/Calculator](https://replit.com/@bgoonz/Calculator)
+
+
 
 
 
  
 
-[https://replit.com/@bgoonz/Reactjs-2](https://replit.com/@bgoonz/Reactjs-2) [https://replit.com/@bgoonz/Login-Page-22](https://replit.com/@bgoonz/Login-Page-22)
+[https://replit.com/@bgoonz/Reactjs-2](https://replit.com/@bgoonz/Reactjs-2)
+
+ 
 
 
 
@@ -126,47 +134,91 @@
 
 [https://replit.com/@bgoonz/30-days-python](https://replit.com/@bgoonz/30-days-python)
 
-[https://replit.com/@bgoonz/22-Maths-With-Variables-Example-Solution](https://replit.com/@bgoonz/22-Maths-With-Variables-Example-Solution)
+{% embed url="https://replit.com/@bgoonz/22-Maths-With-Variables-Example-Solution" %}
+
+
 
 [https://replit.com/@bgoonz/Replit-Database-proxy-1](https://replit.com/@bgoonz/Replit-Database-proxy-1)
 
-[https://replit.com/@bgoonz/python-ds-2](https://replit.com/@bgoonz/python-ds-2)
+{% embed url="https://replit.com/@bgoonz/python-ds-2" %}
 
-[https://replit.com/@bgoonz/ADS-practice](https://replit.com/@bgoonz/ADS-practice)
 
-[https://replit.com/@bgoonz/Data-Structures-6](https://replit.com/@bgoonz/Data-Structures-6)
 
-[https://replit.com/@bgoonz/CGA-Prep](https://replit.com/@bgoonz/CGA-Prep)
+{% embed url="https://replit.com/@bgoonz/ADS-practice" %}
 
-[https://replit.com/@bgoonz/notes](https://replit.com/@bgoonz/notes)
+
+
+
+
+{% embed url="https://replit.com/@bgoonz/Data-Structures-6" %}
+
+
+
+
+
+{% embed url="https://replit.com/@bgoonz/CGA-Prep" %}
+
+
+
+{% embed url="https://replit.com/@bgoonz/notes" %}
+
+
+
+
+
+
+
+
 
 [https://replit.com/@bgoonz/ds-algos-tight-5](https://replit.com/@bgoonz/ds-algos-tight-5)
 
-[https://replit.com/@bgoonz/main-prac-1](https://replit.com/@bgoonz/main-prac-1)
+{% embed url="https://replit.com/@bgoonz/main-prac-1" %}
+
+
+
+
 
 [https://replit.com/@bgoonz/main-prac](https://replit.com/@bgoonz/main-prac)
 
-[https://replit.com/@bgoonz/cs-unit-1-sprint-2-module-3-stack-implementation-linked-li-2](https://replit.com/@bgoonz/cs-unit-1-sprint-2-module-3-stack-implementation-linked-li-2)
+{% embed url="https://replit.com/@bgoonz/cs-unit-1-sprint-2-module-3-stack-implementation-linked-li-2" %}
+
+
 
 [https://replit.com/@bgoonz/cs-unit-1-sprint-2-module-3-stack-implementation-array-2](https://replit.com/@bgoonz/cs-unit-1-sprint-2-module-3-stack-implementation-array-2)
 
-[https://replit.com/@bgoonz/cs-unit-1-sprint-2-module-3-queue-with-linked-list-3](https://replit.com/@bgoonz/cs-unit-1-sprint-2-module-3-queue-with-linked-list-3)
+{% embed url="https://replit.com/@bgoonz/cs-unit-1-sprint-2-module-3-queue-with-linked-list-3" %}
 
-[https://replit.com/@bgoonz/gist-examples](https://replit.com/@bgoonz/gist-examples)
 
-[https://replit.com/@bgoonz/cs-unit-1-sprint-2-module-4-linear-search-2](https://replit.com/@bgoonz/cs-unit-1-sprint-2-module-4-linear-search-2)
+
+{% embed url="https://replit.com/@bgoonz/gist-examples" %}
+
+
+
+{% embed url="https://replit.com/@bgoonz/cs-unit-1-sprint-2-module-4-linear-search-2" %}
+
+
 
 [https://replit.com/@bgoonz/Data-Structures-Algos-Codebase-2](https://replit.com/@bgoonz/Data-Structures-Algos-Codebase-2)
 
-[https://replit.com/@bgoonz/Data-Structures-Algos-Codebase-1](https://replit.com/@bgoonz/Data-Structures-Algos-Codebase-1)
+{% embed url="https://replit.com/@bgoonz/Data-Structures-Algos-Codebase-1" %}
+
+
 
 [https://replit.com/@bgoonz/DATASTRUCPYTHONNOTES-3](https://replit.com/@bgoonz/DATASTRUCPYTHONNOTES-3)
 
+
+
 [https://replit.com/@bgoonz/python-practice-exercises-3](https://replit.com/@bgoonz/python-practice-exercises-3)
 
-[https://replit.com/@bgoonz/python-practice-5](https://replit.com/@bgoonz/python-practice-5)
 
-[https://replit.com/@bgoonz/py-prac-medium-2](https://replit.com/@bgoonz/py-prac-medium-2)
+
+{% embed url="https://replit.com/@bgoonz/python-practice-5" %}
+
+
+
+{% embed url="https://replit.com/@bgoonz/py-prac-medium-2" %}
+
+
 
 [https://replit.com/@bgoonz/week-10-take-6](https://replit.com/@bgoonz/week-10-take-6)
 
@@ -228,7 +280,9 @@
 
 [https://replit.com/@bgoonz/python-practice-exercises-2](https://replit.com/@bgoonz/python-practice-exercises-2)
 
-[https://replit.com/@bgoonz/python-quizes-1](https://replit.com/@bgoonz/python-quizes-1)
+{% embed url="https://replit.com/@bgoonz/python-quizes-1" %}
+
+
 
 [https://replit.com/@bgoonz/cs-unit-1-sprint-1-module-1-loops-1](https://replit.com/@bgoonz/cs-unit-1-sprint-1-module-1-loops-1)
 
@@ -254,11 +308,17 @@
 
 [https://replit.com/@bgoonz/py-prac-medium-1](https://replit.com/@bgoonz/py-prac-medium-1)
 
-[https://replit.com/@bgoonz/cs-unit-1-sprint-1-module-1-functions-1](https://replit.com/@bgoonz/cs-unit-1-sprint-1-module-1-functions-1)
+{% embed url="https://replit.com/@bgoonz/cs-unit-1-sprint-1-module-1-functions-1" %}
 
-[https://replit.com/@bgoonz/intro-2-Python-through-projects-1](https://replit.com/@bgoonz/intro-2-Python-through-projects-1)
 
-[https://replit.com/@bgoonz/awesome-python-1](https://replit.com/@bgoonz/awesome-python-1)
+
+{% embed url="https://replit.com/@bgoonz/intro-2-Python-through-projects-1" %}
+
+
+
+{% embed url="https://replit.com/@bgoonz/awesome-python-1" %}
+
+
 
 [https://replit.com/@bgoonz/BG-Learn-Python-2](https://replit.com/@bgoonz/BG-Learn-Python-2)
 
@@ -304,11 +364,17 @@
 
 [https://replit.com/@bgoonz/funcamentalJS](https://replit.com/@bgoonz/funcamentalJS)
 
-[https://replit.com/@bgoonz/master-bash-in-15-minutes](https://replit.com/@bgoonz/master-bash-in-15-minutes)
+{% embed url="https://replit.com/@bgoonz/master-bash-in-15-minutes" %}
 
-[https://replit.com/@bgoonz/python-practice-exercises](https://replit.com/@bgoonz/python-practice-exercises)
 
-[https://replit.com/@bgoonz/python-practice](https://replit.com/@bgoonz/python-practice)
+
+{% embed url="https://replit.com/@bgoonz/python-practice-exercises" %}
+
+
+
+{% embed url="https://replit.com/@bgoonz/python-practice" %}
+
+
 
 [https://replit.com/@bgoonz/DATASTRUCPYTHONNOTES-2](https://replit.com/@bgoonz/DATASTRUCPYTHONNOTES-2)
 
