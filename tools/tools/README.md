@@ -4,9 +4,39 @@
 
 {% page-ref page="../showcase/" %}
 
+{% embed url="https://codepen.io/bgoonz/pen/oNwOMod" %}
+
+{% embed url="https://codepen.io/bgoonz/pen/GRELBOz" %}
+
+{% embed url="https://codepen.io/bgoonz/pen/powBZpy" %}
+
+{% embed url="https://codepen.io/bgoonz/pen/qBjwypx" %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{% embed url="https://codepen.io/bgoonz/pen/BaZEPwg" %}
+
+
+
 {% embed url="https://codesandbox.io/s/codebin-forked-ewc61" %}
 
 {% embed url="https://stackblitz.com/edit/react-mb8ndb" %}
+
+{% embed url="https://codepen.io/bgoonz/pen/MWoRBQj" %}
 
 
 
@@ -16,9 +46,7 @@
 
 {% embed url="https://codesandbox.io/s/z1pew" %}
 
-{% embed url="https://stackblitz.com/edit/react-5qjvbb?file=src/App.js" %}
-
-{% embed url="https://stackblitz.com/edit/react-5qjvbb?embed=1&file=src/App.js" %}
+{% embed url="https://codepen.io/bgoonz/pen/NWgmByW" %}
 
 
 

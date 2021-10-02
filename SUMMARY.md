@@ -161,6 +161,7 @@
 
 ## WEB\_DEV\_TOOLS
 
+* [Web Dev Tools](web_dev_tools/web-dev-tools.md)
 * [Cloudinary](web_dev_tools/cloudinary.md)
 * [Postman](web_dev_tools/postman/README.md)
   * [Creating an API](web_dev_tools/postman/creating-an-api.md)
@@ -195,4 +196,8 @@
 ## Blockchain & Crypto
 
 * [Blockchain Basics](blockchain-and-crypto/blockchain-basics.md)
+
+## Data Structures & Interviewing
+
+* [Data Structures](data-structures-and-interviewing/data-structures.md)
 

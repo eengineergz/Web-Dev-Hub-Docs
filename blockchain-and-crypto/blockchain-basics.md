@@ -7,7 +7,15 @@ description: >-
 
 # Blockchain Basics
 
-{% embed url="https://codepen.io/bgoonz/pen/NWgmzRM" %}
+{% embed url="https://codesandbox.io/embed/morning-sun-rmrcw?autoresize=1&codemirror=1&fontsize=8&hidenavigation=1&theme=light&view=preview" %}
+
+
+
+{% embed url="https://grubbytrimenterprise.bgoonz.repl.co/" %}
+
+{% embed url="https://replit.com/@bgoonz/GrubbyTrimEnterprise\#index.html" %}
+
+
 
 {% embed url="https://bryan-guner.gitbook.io/solidarity-blockchain-nfts/" %}
 
