@@ -12,8 +12,9 @@
 * [Showcase](tools/showcase/README.md)
   * [Continued](tools/showcase/untitled.md)
 * [Downloads](tools/downloads.md)
-* [Links](tools/links.md)
+* [REPL.IT Compilation](tools/links.md)
 * [Past Notes](tools/past-notes.md)
+* [Untitled](tools/untitled.md)
 
 ## Programming Languages
 

@@ -34,5 +34,9 @@ w9:
 
 {% embed url="https://replit.com/@bgoonz/week-10-take-3" %}
 
+📗
+
+{% embed url="https://replit.com/@bgoonz/week-10-take-2\#.replit" %}
+
 
 
