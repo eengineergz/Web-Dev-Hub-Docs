@@ -234,11 +234,15 @@
 
 
 
-[https://replit.com/@bgoonz/DATASTRUCPYTHONNOTES-3](https://replit.com/@bgoonz/DATASTRUCPYTHONNOTES-3)
+{% embed url="https://replit.com/@bgoonz/DATASTRUCPYTHONNOTES-3" %}
 
 
 
-[https://replit.com/@bgoonz/python-practice-exercises-3](https://replit.com/@bgoonz/python-practice-exercises-3)
+
+
+{% embed url="https://replit.com/@bgoonz/python-practice-exercises-3" %}
+
+
 
 
 
@@ -254,19 +258,33 @@
 
 [https://replit.com/@bgoonz/BG-Learn-Python-3](https://replit.com/@bgoonz/BG-Learn-Python-3)
 
-[https://replit.com/@bgoonz/PYTHONPRAC-1](https://replit.com/@bgoonz/PYTHONPRAC-1)
+{% embed url="https://replit.com/@bgoonz/PYTHONPRAC-1" %}
 
-[https://replit.com/@bgoonz/cs-unit-1-sprint-1-module-2-space-complexity-2](https://replit.com/@bgoonz/cs-unit-1-sprint-1-module-2-space-complexity-2)
 
-[https://replit.com/@bgoonz/cs-unit-1-sprint-1-module-2-time-complexity-1](https://replit.com/@bgoonz/cs-unit-1-sprint-1-module-2-time-complexity-1)
+
+{% embed url="https://replit.com/@bgoonz/cs-unit-1-sprint-1-module-2-space-complexity-2" %}
+
+
+
+{% embed url="https://replit.com/@bgoonz/cs-unit-1-sprint-1-module-2-time-complexity-1" %}
+
+
 
 [https://replit.com/@bgoonz/cs-unit-1-sprint-1-module-3-mutable-and-immutable-objects-1](https://replit.com/@bgoonz/cs-unit-1-sprint-1-module-3-mutable-and-immutable-objects-1)
 
-[https://replit.com/@bgoonz/cs-unit-1-sprint-1-module-1-dictionaries-1](https://replit.com/@bgoonz/cs-unit-1-sprint-1-module-1-dictionaries-1)
 
-[https://replit.com/@bgoonz/cs-unit-1-sprint-1-module-1-list-operations-1](https://replit.com/@bgoonz/cs-unit-1-sprint-1-module-1-list-operations-1)
+
+{% embed url="https://replit.com/@bgoonz/cs-unit-1-sprint-1-module-1-dictionaries-1" %}
+
+
+
+{% embed url="https://replit.com/@bgoonz/cs-unit-1-sprint-1-module-1-list-operations-1" %}
+
+
 
 [https://replit.com/@bgoonz/d1](https://replit.com/@bgoonz/d1)
+
+
 
 [https://replit.com/@bgoonz/cs-unit-1-sprint-1-module-1-loops-3](https://replit.com/@bgoonz/cs-unit-1-sprint-1-module-1-loops-3)
 
@@ -446,7 +464,11 @@
 
 [https://replit.com/@bgoonz/cs-unit-1-sprint-1-module-1-basic-operators](https://replit.com/@bgoonz/cs-unit-1-sprint-1-module-1-basic-operators)
 
-[https://replit.com/@bgoonz/cs-unit-1-sprint-1-module-1-basic-types](https://replit.com/@bgoonz/cs-unit-1-sprint-1-module-1-basic-types)
+
+
+{% embed url="https://replit.com/@bgoonz/cs-unit-1-sprint-1-module-1-basic-types" %}
+
+
 
 [https://replit.com/@bgoonz/cs-unit-1-sprint-1-module-1-white-space](https://replit.com/@bgoonz/cs-unit-1-sprint-1-module-1-white-space)
 
@@ -524,21 +546,37 @@
 
 [https://replit.com/@bgoonz/live-examples-1](https://replit.com/@bgoonz/live-examples-1)
 
-[https://replit.com/@bgoonz/WEEK2](https://replit.com/@bgoonz/WEEK2)
+{% embed url="https://replit.com/@bgoonz/WEEK2" %}
+
+
 
 [https://replit.com/@bgoonz/Medium-article-comp-complex](https://replit.com/@bgoonz/Medium-article-comp-complex)
 
-[https://replit.com/@bgoonz/BLANK-2](https://replit.com/@bgoonz/BLANK-2)
+{% embed url="https://replit.com/@bgoonz/BLANK-2" %}
+
+
+
+
 
 [https://replit.com/@bgoonz/js-useful-apis](https://replit.com/@bgoonz/js-useful-apis)
 
 [https://replit.com/@bgoonz/js-infinite-image-scroller-with-unsplash-api](https://replit.com/@bgoonz/js-infinite-image-scroller-with-unsplash-api)
 
+
+
+
+
 [https://replit.com/@bgoonz/js-audio-sound-play](https://replit.com/@bgoonz/js-audio-sound-play)
+
+
 
 [https://replit.com/@bgoonz/css-image-gallery-with-slides](https://replit.com/@bgoonz/css-image-gallery-with-slides)
 
-[https://replit.com/@bgoonz/Website-Visits-Counter](https://replit.com/@bgoonz/Website-Visits-Counter)
+{% embed url="https://replit.com/@bgoonz/Website-Visits-Counter" %}
+
+
+
+
 
 [https://replit.com/@bgoonz/replit-db](https://replit.com/@bgoonz/replit-db)
 
@@ -556,21 +594,37 @@
 
 [https://replit.com/@bgoonz/BLANK-1](https://replit.com/@bgoonz/BLANK-1)
 
-[https://replit.com/@bgoonz/random-list-of-embedable-content](https://replit.com/@bgoonz/random-list-of-embedable-content)
+{% embed url="https://replit.com/@bgoonz/random-list-of-embedable-content" %}
+
+
 
 [https://replit.com/@bgoonz/replit-docs-1](https://replit.com/@bgoonz/replit-docs-1)
 
-[https://replit.com/@bgoonz/replit-docs](https://replit.com/@bgoonz/replit-docs)
 
-[https://replit.com/@bgoonz/colored-text](https://replit.com/@bgoonz/colored-text)
 
-[https://replit.com/@bgoonz/leetcode-level-1](https://replit.com/@bgoonz/leetcode-level-1)
+{% embed url="https://replit.com/@bgoonz/replit-docs" %}
 
-[https://replit.com/@bgoonz/C-Prac-BG](https://replit.com/@bgoonz/C-Prac-BG)
+
+
+{% embed url="https://replit.com/@bgoonz/colored-text" %}
+
+
+
+{% embed url="https://replit.com/@bgoonz/leetcode-level-1" %}
+
+
+
+{% embed url="https://replit.com/@bgoonz/C-Prac-BG" %}
+
+
 
 [https://replit.com/@bgoonz/BLANK](https://replit.com/@bgoonz/BLANK)
 
-[https://replit.com/@bgoonz/Comments](https://replit.com/@bgoonz/Comments)
+
+
+{% embed url="https://replit.com/@bgoonz/Comments" %}
+
+
 
 [https://replit.com/@bgoonz/DS-ALGO-OFFICIAL-2](https://replit.com/@bgoonz/DS-ALGO-OFFICIAL-2)
 
