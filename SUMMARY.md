@@ -13,6 +13,7 @@
   * [Continued](tools/showcase/untitled.md)
 * [Downloads](tools/downloads.md)
 * [Links](tools/links.md)
+* [Past Notes](tools/past-notes.md)
 
 ## Programming Languages
 
