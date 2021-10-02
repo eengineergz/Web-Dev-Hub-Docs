@@ -12,7 +12,8 @@
 * [Showcase](tools/showcase/README.md)
   * [Continued](tools/showcase/untitled.md)
 * [Downloads](tools/downloads.md)
-* [REPL.IT Compilations](tools/links.md)
+* [REPL.IT Compilations](tools/links/README.md)
+  * [Part 2](tools/links/part-2.md)
 * [Past Notes](tools/past-notes.md)
 * [Untitled](tools/untitled.md)
 
