@@ -1,8 +1,16 @@
 # Tools
 
+{% embed url="https://codesandbox.io/s/random-list-forked-448ws" %}
+
+
+
 {% page-ref page="heroku.md" %}
 
 {% page-ref page="../showcase/" %}
+
+{% embed url="https://codepen.io/bgoonz/pen/ExXJeaL" %}
+
+
 
 {% embed url="https://codepen.io/bgoonz/pen/oNwOMod" %}
 
