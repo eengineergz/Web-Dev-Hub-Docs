@@ -4,15 +4,13 @@ description: initial page
 
 # Home
 
-## 
+![](.gitbook/assets/image%20%281%29.png)
 
 
 
 
 
 
-
-![](.gitbook/assets/image.png)
 
 {% page-ref page="navigation.md" %}
 
