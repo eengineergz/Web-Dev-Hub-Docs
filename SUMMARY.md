@@ -13,6 +13,7 @@
   * [Continued](tools/showcase/untitled/README.md)
     * [Page 3:](tools/showcase/untitled/page-3.md)
 * [Downloads](tools/downloads.md)
+* [How To Configure Ubuntu](tools/how-to-configure-ubuntu.md)
 * [REPL.IT Compilations](tools/links/README.md)
   * [Part 2](tools/links/part-2.md)
 * [Past Notes](tools/past-notes.md)
@@ -32,6 +33,7 @@
   * [Python](programming-languages/programming-languages/python/README.md)
     * [Practice](programming-languages/programming-languages/python/practice.md)
     * [Pipenv](programming-languages/programming-languages/python/pipenv.md)
+    * [Untitled](programming-languages/programming-languages/python/untitled.md)
   * [Bash](programming-languages/programming-languages/bash/README.md)
     * [SED](programming-languages/programming-languages/bash/sed.md)
   * [JavaScript](programming-languages/programming-languages/javascript/README.md)
@@ -157,6 +159,7 @@
 
 * [GraphQL](server-side/graphql/README.md)
   * [Intro](server-side/graphql/intro.md)
+* [Rest VS GraphQl](server-side/rest-vs-graphql.md)
 * [REST-API](server-side/rest-api.md)
 * [Public APIs](server-side/public-apis.md)
 
