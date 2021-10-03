@@ -196,7 +196,8 @@
 
 ## Blockchain & Crypto
 
-* [Blockchain Basics](blockchain-and-crypto/blockchain-basics.md)
+* [Blockchain Basics](blockchain-and-crypto/blockchain-basics/README.md)
+  * [Basics:](blockchain-and-crypto/blockchain-basics/basics.md)
 
 ## Data Structures & Interviewing
 
